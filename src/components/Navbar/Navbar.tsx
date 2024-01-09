@@ -18,7 +18,7 @@ const Navbar = (props: Props) => {
     >
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Navbar
+          Market
         </a>
         <button
           className="navbar-toggler"
@@ -65,7 +65,7 @@ const Navbar = (props: Props) => {
                 aria-label="Search"
               />
               <button className="btn btn-outline-success" type="submit">
-                Search
+                Çıkış
               </button>
             </form>
           </div>
